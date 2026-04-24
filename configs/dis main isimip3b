@@ -1,0 +1,22 @@
+variable;dis
+raw_data_root;CONFIG_RAW_DATA_ROOT_REPLACE_THIS
+grid_label;ISIMIP
+impactmodel;
+forcing;
+ensemble_selection;
+period_begin;
+period_end;
+period_label;
+baseline_period;picontrol_1850soc_default
+cptmin;0
+cptmax;0
+local_bound_begin;1860
+local_bound_end;2014
+local_bound_low;0.05
+local_bound_high;0.95
+boundary_baseline;0.5
+boundary_upper_end;0.95
+areal_division;
+draw_ts_var;
+normalise_ts;
+visopts_cfg;dis visopts

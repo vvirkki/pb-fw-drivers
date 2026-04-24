@@ -1,0 +1,22 @@
+variable;dis
+raw_data_root;CONFIG_RAW_DATA_ROOT_REPLACE_THIS
+grid_label;ISIMIP
+impactmodel;
+forcing;
+ensemble_selection;
+period_begin;1901,1901
+period_end;2019,2019
+period_label;counterclim_1901soc_default,obsclim_histsoc_default
+baseline_period;counterclim_1901soc_default
+cptmin;0
+cptmax;0
+local_bound_begin;1911
+local_bound_end;2019
+local_bound_low;0.05
+local_bound_high;0.95
+boundary_baseline;0.5
+boundary_upper_end;0.95
+areal_division;
+draw_ts_var;
+normalise_ts;
+visopts_cfg;dis visopts

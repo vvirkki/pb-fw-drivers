@@ -1,0 +1,35 @@
+# folders that are filled with inputs or outputs
+Data/auxdata/Globio4_TerrestrialMSA_10sec_2015/
+Data/auxdata/hyde35/
+Data/auxdata/Kastner_et_al_2021_HANPP/
+Data/dis/
+Data/isimip3a_raw/
+Data/isimip3b_raw/
+Data/Porkka_et_al_NatWater_2024_data/*
+!Data/Porkka_et_al_NatWater_2024_data/
+!Data/Porkka_et_al_NatWater_2024_data/readme.txt
+Data/rootmoist/
+figures_tables_maps_figS3S4/
+figures_tables_maps_main/
+figures_tables_timeseries_main/
+figures_tables_timeseries_figS12/
+logs/
+output/
+zenodo_export/
+*.pdf
+*.png
+
+# HYDE anthromes
+*AD.asc
+*BC.asc
+
+# system files
+.DS_Store
+*.DS_Store
+logs/.DS_Store
+.Rhistory
+.Rproj.user
+*.Rproj
+*.Rdata
+Rplots*
+Rplot*

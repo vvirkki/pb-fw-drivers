@@ -1,0 +1,55 @@
+R version 4.5.2 (2025-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS Tahoe 26.3.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] C.UTF-8/UTF-8/C.UTF-8/C/C.UTF-8/C.UTF-8
+
+time zone: Europe/Helsinki
+tzcode source: internal
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] biscale_1.1.0        lubridate_1.9.5      exactextractr_0.10.1
+ [4] zyp_0.11-1           Kendall_2.2.2        gridExtra_2.3       
+ [7] doParallel_1.0.17    iterators_1.0.14     foreach_1.5.2       
+[10] changepoint_2.3      zoo_1.8-15           viridisLite_0.4.3   
+[13] tmap_4.2             ggplot2_4.0.2        readr_2.1.6         
+[16] tidyr_1.3.2          stringr_1.6.0        dplyr_1.2.0         
+[19] sf_1.0-24            terra_1.8-93         qmap_1.0-6          
+[22] fitdistrplus_1.2-6   survival_3.8-6       MASS_7.3-65         
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.1    farver_2.1.2        S7_0.2.1           
+ [4] fastmap_1.2.0       leaflegend_1.2.1    leaflet_2.2.3      
+ [7] XML_3.99-0.20       digest_0.6.39       timechange_0.4.0   
+[10] lifecycle_1.0.5     magrittr_2.0.4      compiler_4.5.2     
+[13] rlang_1.1.7         tools_4.5.2         data.table_1.18.2.1
+[16] htmlwidgets_1.6.4   sp_2.2-0            classInt_0.4-11    
+[19] RColorBrewer_1.1-3  abind_1.4-8         KernSmooth_2.23-26 
+[22] withr_3.0.2         purrr_1.2.1         leafsync_0.1.0     
+[25] grid_4.5.2          cols4all_0.10       e1071_1.7-17       
+[28] leafem_0.2.5        colorspace_2.1-2    spacesXYZ_1.6-0    
+[31] scales_1.4.0        cli_3.6.5           generics_0.1.4     
+[34] tzdb_0.5.0          tmaptools_3.3       DBI_1.2.3          
+[37] proxy_0.4-29        splines_4.5.2       stars_0.7-0        
+[40] s2_1.1.9            base64enc_0.1-6     vctrs_0.7.1        
+[43] boot_1.3-32         Matrix_1.7-4        hms_1.1.4          
+[46] crosstalk_1.2.2     units_1.0-0         maptiles_0.11.0    
+[49] glue_1.8.0          lwgeom_0.2-15       codetools_0.2-20   
+[52] stringi_1.8.7       gtable_0.3.6        raster_3.6-32      
+[55] tibble_3.3.1        logger_0.4.1        pillar_1.11.1      
+[58] htmltools_0.5.9     R6_2.6.1            wk_0.9.5           
+[61] lattice_0.22-7      png_0.1-8           class_7.3-23       
+[64] Rcpp_1.1.1          pkgconfig_2.0.3    
+          GEOS           GDAL         proj.4 GDAL_with_GEOS     USE_PROJ_H 
+      "3.13.0"        "3.8.5"        "9.5.1"         "true"         "true" 
+          PROJ 
+       "9.5.1" 
