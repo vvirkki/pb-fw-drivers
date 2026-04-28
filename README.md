@@ -6,14 +6,14 @@
 
 Vili Virkki, Lauren Seaby Andersen, Sofie te Wierik, Dieter Gerten, Miina Porkka
 
-**Published in *Nature Communications***\
+**Accepted for publication in *Nature Communications***\
 ADD LINK
 
 **Output data available in a Zenodo repository**\
 <https://doi.org/10.5281/zenodo.19663530>
 
 **Corresponding author & repository author**\
-Vili Virkki ([vili.virkki\@uef.fi](mailto:vili.virkki@uef.fi){.email})
+Vili Virkki (vili.virkki@uef.fi)
 
 **Please cite the *Nature Communications* publication if using code from this repository or data from the Zenodo repository in another publication.**
 
