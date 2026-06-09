@@ -6,8 +6,13 @@
 
 Vili Virkki, Lauren Seaby Andersen, Sofie te Wierik, Dieter Gerten, Miina Porkka
 
+<<<<<<< Updated upstream
 **Accepted for publication in *Nature Communications***\
 ADD LINK
+=======
+**Published in *Nature Communications***\
+<https://doi.org/10.1038/s41467-026-73051-x>
+>>>>>>> Stashed changes
 
 **Output data available in a Zenodo repository**\
 <https://doi.org/10.5281/zenodo.19663530>
@@ -96,7 +101,7 @@ Should the repository be updated with new versions, main changes will be briefly
 
 #### v1.0.0.
 
-Version used in producing the results shown in the *Nature Communications* manuscript (ADD LINK).
+Version used in producing the results shown in the [*Nature Communications* manuscript](https://www.nature.com/articles/s41467-026-73051-x).
 
 ### License
 
