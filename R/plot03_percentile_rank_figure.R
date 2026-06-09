@@ -13,7 +13,7 @@
 # Miina Porkka
 #
 # Published in Nature Communications:
-# ADD LINK
+# https://doi.org/10.1038/s41467-026-73051-x
 #
 # Output data available in a Zenodo repository:
 # https://doi.org/10.5281/zenodo.19663530
